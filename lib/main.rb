@@ -1,2 +1,2 @@
-require './lib/fibonacci_recursive'
-require './lib/fibonacci_recursive_memorize'
+require_relative 'fibs'
+require_relative 'fibs_rec'
